@@ -3,7 +3,7 @@
 <h1>About</h1>
 Real time website for attendance management of Oyster Kode Club Members.
 
-<br><
+<br>
 <h3>Features</h3>
 <ul>
 <li>Admin authentication</li>
